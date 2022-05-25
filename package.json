@@ -1,0 +1,29 @@
+{
+  "name": "firebase_linkedin_auth",
+  "version": "1.0.0",
+  "description": "firebase implementation of linkedin authentication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolapooluwole/firebase_linkedin_auth.git"
+  },
+  "keywords": [
+    "authentication",
+    "firebase",
+    "linkedin",
+    "google"
+  ],
+  "author": "dolapo oluwole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dolapooluwole/firebase_linkedin_auth/issues"
+  },
+  "homepage": "https://github.com/dolapooluwole/firebase_linkedin_auth#readme",
+  "dependencies": {
+    "firebase": "^9.8.1",
+    "firebase-admin": "^10.2.0"
+  }
+}
